@@ -1,1 +1,1 @@
-# Open MoGo
+# Open MoGo https://serjkit.github.io/MoGo/
